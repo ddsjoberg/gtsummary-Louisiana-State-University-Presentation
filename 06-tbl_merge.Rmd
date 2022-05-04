@@ -207,4 +207,4 @@ my_gtsave("tbl_strata")
 
 * https://shannonpileggi.github.io/gtreg/
 
-<p align="center"><img src="Images/tbl_ae.png" width=68%></p>
+<p align="center"><img src="Images/tbl_ae.png" width=95%></p>
